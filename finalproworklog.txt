@@ -1,0 +1,5 @@
+4/18/2020: i hate the fact i procrastonated so much for this project. gonna try and finish this the best of my ablitities.
+Got the code that was offered for the project and started to look over it, also looked over the recorded video of the
+final project to see what needed to be done. started to work on the add the image for the project. if i am correct in 
+assuming that the subjects of the table are to be the db_path of the file, image_path, image_size, and the Image_sha-256
+(i honestly have no idea what sha is). I managed to get the apodTable all ready and fixed
